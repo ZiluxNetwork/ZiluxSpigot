@@ -5,7 +5,7 @@ Feel free to use.
 
 For issues, contact: Motomel
 
-OKTUBRE XDXDXDX
+Keep the LICENSE.md
 
 
 
